@@ -1,2 +1,7 @@
-body { background-color: #e8f0fe; font-family: Arial, sans-serif; } h1 { color: darkblue; }
+body {
+background-color: #f0f0f0;
+font-family: Arial, sans-serif; text-align: center;
+}
+h1 { color: darkred; font-size: 36px; } p { font-size: 20px; }
+
 
